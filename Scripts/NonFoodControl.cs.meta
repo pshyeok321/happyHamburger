@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 02d2dcc9da7e790479c02fb784ef20b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - uIManager: {instanceID: 0}
+  - explosion: {fileID: 198000011545952112, guid: 28fbc97a4e7e92144af43a4bd05be737,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
